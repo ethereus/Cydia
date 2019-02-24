@@ -1,0 +1,39 @@
+<package>
+	<id>com.rpetrich.snoverlay</id>
+	<name>Snoverlay</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>4.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Cool Snow Effect. Firmware should be greater than 4.0</shortDescription>
+	<descriptionlist>
+		<description>Happy Holidays, everyone!.</description>
+		<description>Thanks for downloading.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Adds a snow effect to your device!</description>
+			<image>snow1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Works throughout even when locked!</description>
+			<image>snow2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Release</change>
+		<change>It is snowing !!</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
