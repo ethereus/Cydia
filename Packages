@@ -5,8 +5,8 @@ Maintainer: Ilena <ilena@f4d3z.space>
 Depends: firmware (>4.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.rpetrich.snoverlay.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+Size: 16
+MD5sum: 3906770daf4718065730e639f0160b29
 Description: Look it's snowing !! Firmware should be greater than 7.0
 Name: Snoverlay
 Author: Ilena <ilena@f4d3z.space>
