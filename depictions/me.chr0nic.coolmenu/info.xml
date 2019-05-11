@@ -1,0 +1,38 @@
+<package>
+	<id>me.chr0nic.coolmenu</id>
+	<name>CoolMenu</name>
+	<version>0.0.1-4+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Wow! Replaces your power down menu.</shortDescription>
+	<descriptionlist>
+		<description>Replaces your power down menu. Currently in progress.</description>
+		<description>Thanks for downloading.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description> </description>
+			<image>power.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description> </description>
+			<image>snow2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
