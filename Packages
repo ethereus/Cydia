@@ -11,3 +11,21 @@ Description: Look it's snowing !! Firmware should be greater than 7.0
 Name: Snoverlay
 Author: Ilena <ilena@f4d3z.space>
 Depiction: http://f4d3z.space/Toybox/depictions/?p=com.rpetrich.snoverlay
+
+
+Package: me.chr0nic.coolmenu
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: Ilena <ilena@f4d3z.space>
+Installed-Size: 140
+Depends: mobilesubstrate
+Filename: ./debs/me.chr0nic.coolmenu_0.0.1-4+debug_iphoneos-arm.deb
+Size: 17966
+MD5sum: b48600f2cf818b30a2499a8ba79b382b
+SHA1: d8a4def85ce4f47fde08837a51cc395bef544781
+SHA256: 294f801206cecd8b941c6723d51f3f1e26528cc297ec42ca88d56ec1f4b6f360
+Section: Tweaks
+Description: Wow! Replaces your power down menu.
+Author: Chr0nic
+Name: CoolMenu
+Depiction: http://f4d3z.space/Toybox/depictions/?p=me.chr0nic.coolmenu
