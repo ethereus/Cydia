@@ -1,0 +1,82 @@
+{
+    "tintColor": "#0657bb",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "useBoldText": true,
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "CylinderforA12"
+                },
+                {
+                    "markdown": "Sexy homescreen icon animations",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "url": "http://f4d3z.space/Toybox/depictions/com.r333d.cylinder.xbyy/screenshots/cylinder1.jpg",
+                            "accessibilityText": "Screenshot0"
+                        },
+                        {
+                            "url": "http://f4d3z.space/Toybox/depictions/com.r333d.cylinder.xbyy/screenshots/cylinder2.jpg",
+                            "accessibilityText": "Screenshot1"
+                        }
+                    ],
+                    "itemCornerRadius": 6
+                },
+                {
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "markdown": "Currently there are 45 icon effects.\r\n\r\nIf you take combinations into account, then there are 35,184,372,088,832 effects.\r\n\r\nIf, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in /Library/Cylinder.\r\n\r\nYou can also make script requests on reddit.com/r/cylinder if you don't know how to computer. People also sometimes post cool combinations there too.\r\n\r\nConfigure options from Settings."
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "1.0.6"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Released",
+                    "text": "05-26-2019"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Price",
+                    "text": "Free"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Reed Weichler"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ]
+        }
+    ],
+    "minVersion": "0.1",
+    "headerImage": "",
+    "class": "DepictionTabView"
+}
