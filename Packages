@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: Ilena <ilena@f4d3z.space>
 Depends: firmware (>3.0), mobilesubstrate
 Filename: ./debs/com.r333d.cylinder.xbyy.deb
-Size: 516
+Size: 515576
 MD5sum: b98cf1af3123610dae3d394416cb3446
 SHA1: f339882532c0fd6e436ceb0a626899edd8baff32
 SHA256: 171f98f3be6be87c2dc107985c8011389a971533a9f6121be539aaa50a090a96
