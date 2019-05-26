@@ -1,0 +1,45 @@
+<package>
+	<id>com.r333d.cylinder.xbyy</id>
+	<name>Cylinder for A12</name>
+	<version>1.0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>3.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Sexy homescreen icon animations</shortDescription>
+	<descriptionlist>
+		<description>Currently there are 45 icon effects.</description>
+        <description>If you take combinations into account, then there are 35,184,372,088,832 effects.
+        </description>
+        <description>If, for some reason, these 35,184,372,088,832 animations do not satisfy your needs, then you can code your own animations using Lua! Effect scripts are stored in /Library/Cylinder.
+        </description>
+        <description>You can also make script requests on reddit.com/r/cylinder if you don't know how to computer. People also sometimes post cool combinations there too.
+        </description>
+        <description>Configure options from Settings.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Sexy homescreen icon animations</description>
+			<image>cylinder1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Configure options from Settings.</description>
+			<image>cylinder2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Release</change>
+		<change>Compiled for arm64e devices (A12)</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
